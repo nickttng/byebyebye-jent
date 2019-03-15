@@ -15,8 +15,6 @@ html, body {
 	display: flex;
 	flex-direction: column;
 
-	background-image: url('cream_dust.png');
-	background-repeat: repeat;
 }
 
 #main {
@@ -36,14 +34,13 @@ html, body {
 
 	height: 100%;
 	width: 80%;
-	max-width: 960px;
+	max-width: 800px;
 }
 
 #main:hover, #main:active, #main:focus {
 	cursor: pointer;
 	outline: none;
 }
-	
 	#main:focus > * {
 		background-color: #F5E4DC;
 	}
@@ -64,18 +61,18 @@ html, body {
 	#main p {
 		margin-bottom: 1rem;
 		font-weight: bold;
-}
+	}
 
 #footer {
 	flex: 0 1 5rem;
 
-	padding: 1.5rem 0 1rem 0;
+	padding: 2.5rem 0 2.5rem 0;
 	background-color: #F5E4DC;
 }
 
 #footer > * {
 	width: 80%;
-	max-width: 960px;
+	max-width: 800px;
 	margin: auto;
 }
 
