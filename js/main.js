@@ -1,4 +1,3 @@
-
 function makeApiCall() {
 	var nicolefacts = [];
 	var factsRef = [];
@@ -82,7 +81,7 @@ function setFact(factArray, refArray) {
 		return factArray;
 	} else {
 		
-		mainDiv.lastElementChild.innerText = 'That\'s all the facts we have. Restart?';
+		mainDiv.lastElementChild.innerText = 'Much wow. You\'ve read them all. Restart?';
 
 		// reinitialize and return array
     	factArray = refArray.slice(0,refArray.length);

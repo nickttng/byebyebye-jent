@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
 
 html, body {
 	height: 100%;
@@ -61,6 +61,10 @@ html, body {
 	#main p {
 		margin-bottom: 1rem;
 		font-weight: bold;
+	}
+
+	#main small {
+		font-size: 1.25rem;
 	}
 
 #footer {
