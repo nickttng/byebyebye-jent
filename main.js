@@ -1,6 +1,6 @@
 function makeApiCall() {
-	var nicolefacts = [];
-	var factsRef = [];
+	var jenrad = [];
+	var radRef = [];
 
 	var params = {
 	    // The ID of the spreadsheet to retrieve data from.
@@ -14,19 +14,19 @@ function makeApiCall() {
   	request.then(function(response) {
 
   		// create our list of facts
-    	factsRef = response.result.values;
-    	nicolefacts = factsRef.slice(0,factsRef.length);
+    	radRef = response.result.values;
+    	jenrad = radRef.slice(0,radRef.length);
 
     	// bind onclick functionality
-    	document.getElementById('main').onclick = function() { nicolefacts = setFact(nicolefacts,factsRef); }
+    	document.getElementById('main').onclick = function() { jenrad = setFact(jenrad,radRef); }
     	document.getElementById('main').onkeypress = function() {
     		if ( event.code == 'space' || 'enter'  ) {
-    			nicolefacts = setFact(nicolefacts,factsRef);
+    			jenrad = setFact(jenrad,radRef);
     		}
     	}
     	
     	// initialize facts
-    	nicolefacts = setFact(nicolefacts, factsRef);
+    	jenrad = setFact(jenrad, radRef);
 
   		}, function(reason) {
     		console.error('error: ' + reason.result.error.message);
