@@ -17,16 +17,17 @@ you make everyone around you be their better selves.	Cordelia Y
 You make me want to become better, more mindful, and learn more about people and their strengths	Sarah E
 you maintain the highest quality pets.	Nikki L
 you take the time to really invest in our partners.	Nikki L
+	
 the best scheming face	Cordelia Y
 you solve the heaviest problems with the lightest touch	Carter
 even when you're really busy, you make time and space for others if they need it, too	Jacklynn
  you created consensus and value in situations that others would have thought impossible. I will miss your kindness as much as your brilliance.	Lindsay
 I have been so consistently so impressed. Never stop asking questions. You made me a better co-worker, thank you :)	Clint
-You are one of the most thoughtful, empathetic people I've met and your ability to pull others together in productive and collaborative ways is nothing short of amazing.	Carlo
+you are one of the most thoughtful, empathetic people I've met and your ability to pull others together in productive and collaborative ways is nothing short of amazing.	Carlo
 you are always thinking inclusively and make everyone feel like their questions and opinions are valuable	Laura P
 you are never afraid to ask seemingly simple questions that always seem to get to the meat of an issue	Laura P
 when you joined our project team and brought all of your amazingness with you, you completely transformed our project (the app itself, but more importantly the way we worked) for the better	Laura P
-Jen, I feel smarter having worked with you. Every time we talked, I felt like I leveled up as a human. Thanks for existing. Good luck on the next chapter.	
+I feel smarter having worked with you. Every time we talked, I felt like I leveled up as a human. Thanks for existing. Good luck on the next chapter.	
 you have permanently changed the way I think as a designer in the best ways, and I find myself asking, “what would Jen do here?”	Laura P
 JEN you are a GEM of a designer! You've transformed 18F in so many ways. Everything you touch is all the better for it.	Maya
 you are an amazing partner to hire great people with. Thank you for always being generous with your time and so thoughtful in making decisions for the team. 	Amanda S. 
@@ -55,3 +56,11 @@ you are like the regal Golden Retriver with an uncanny knack for tracking down p
 you deliever the tuff stuff with grace and compassion which is a true sign of a strong leader.	Austin
 you balance a full-time work schedule with full-time dog and cat care, which is not an easy task.	Austin
 you gave me an antenna.	James
+you seem to be able to stay cool in the face of massive bureaucracy. When I wonder—“so how do folks at 18F do this well?”—I often end up thinking of the positivity you exude. 	Ben
+you don't mince words. You block off hours on your calendar with the word "No."	Julia
+your feedback is thoughtful, tactful, and timely. Thank you for guiding with such a gentle, encouraging, and enthusiastic hand!	Julia
+	
+you're incredibly collaborative and supportive and thoughtful and gracious and considerate and funny and talented and skilled and generous and have both a terrific broad view and a great focused view and I really value all your contributions, every time. 	Anne
+you're frankly one of the best models I’ve seen of a incredible supervisor and team member and I consider myself very fortunate to have been able to work with you closely. 	Anne
+you dance in meetings, with or without music.	Anne
+you have people's best interests at heart.	Anne
