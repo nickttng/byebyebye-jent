@@ -4,7 +4,7 @@ function makeApiCall() {
 
 	var params = {
 	    // The ID of the spreadsheet to retrieve data from.
-	    spreadsheetId: '1bg2Sz7MwnyUJXCdxJHL-f_wiyY5nJWiMYfyJgRzpzqU',
+	    spreadsheetId: '1ALBxhq5iK27_OFaUhW1aQW0dVC6NDB8zwufh_jl8Ifg',
 
 	    // The A1 notation of the values to retrieve.
 	    range: 'A2:A',
@@ -34,8 +34,8 @@ function makeApiCall() {
 }
 
 function initClient() {
-	var API_KEY = 'AIzaSyBlvzcnpxN_RVtfF-13KtqfmJ4v0MTTok8';
-	var CLIENT_ID = '708740926980-g0p1m7uto30ronppolbq6cguf9leg29c.apps.googleusercontent.com';
+	var API_KEY = 'AIzaSyBfXgYZoh3q8SXXo0btzlOjuuXBXkdLfNk';
+	var CLIENT_ID = '608833165252-b2prh9nvshjusbgegk8utcq6hu533dp2.apps.googleusercontent.com';
 	var SCOPE = 'https://www.googleapis.com/auth/spreadsheets.readonly';
 
 	gapi.client.init({
