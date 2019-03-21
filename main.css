@@ -105,6 +105,8 @@ html, body {
 	color: white;
 }
 
+/** sorry for using old float method but it works here --*/
+
 .footer-jen {
 	float: left;
 	padding-right: 0.5rem;
